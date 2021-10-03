@@ -2,4 +2,4 @@
 <h2> Data Service Group is your learning partner </h2>
 <h2> Glad to see you here </h2>
 <h1> Good job Serge on learning Devops</h1>
-<h1> This is Maurice first deployment</h1>
+<h1> good job Maurice for your first deployment on TOMCAT</h1>
